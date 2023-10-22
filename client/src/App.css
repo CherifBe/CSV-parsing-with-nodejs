@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+
+.App-header .App-logo {
+  height: 5rem;
+  pointer-events: none;
+  margin-top: 2rem;
+}
+
+.App-content {
+  width: 80%;
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2;
+  justify-content: space-around;
+}
